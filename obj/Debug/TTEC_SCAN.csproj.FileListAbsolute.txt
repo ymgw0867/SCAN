@@ -1,0 +1,10 @@
+C:\トータルテック株式会社様\TTEC_SCAN\bin\Debug\TTEC_SCAN.exe.config
+C:\トータルテック株式会社様\TTEC_SCAN\bin\Debug\TTEC_SCAN.exe
+C:\トータルテック株式会社様\TTEC_SCAN\bin\Debug\TTEC_SCAN.pdb
+C:\トータルテック株式会社様\TTEC_SCAN\obj\Debug\TTEC_SCAN.Properties.Resources.resources
+C:\トータルテック株式会社様\TTEC_SCAN\obj\Debug\TTEC_SCAN.csproj.GenerateResource.cache
+C:\トータルテック株式会社様\TTEC_SCAN\obj\Debug\TTEC_SCAN.csproj.CoreCompileInputs.cache
+C:\トータルテック株式会社様\TTEC_SCAN\obj\Debug\TTEC_SCAN.exe
+C:\トータルテック株式会社様\TTEC_SCAN\obj\Debug\TTEC_SCAN.pdb
+C:\トータルテック株式会社様\TTEC_SCAN\obj\Debug\TTEC_SCAN.Form1.resources
+C:\トータルテック株式会社様\TTEC_SCAN\obj\Debug\TTEC_SCAN.csprojAssemblyReference.cache
