@@ -37,5 +37,14 @@
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)">Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\TTEC_CLI\TTEC_CLI.mdb</Value>
     </Setting>
+    <Setting Name="wrOutPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\TTEC_OCR\READ\</Value>
+    </Setting>
+    <Setting Name="ocrPatternLoadPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\TTEC_OCR\WRHV803\</Value>
+    </Setting>
+    <Setting Name="ocrErrPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TTEC_OCR\OCRERROR\</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

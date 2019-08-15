@@ -113,5 +113,32 @@ namespace TTEC_SCAN.Properties {
                 return ((string)(this["TTEC_CLIConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("c:\\TTEC_OCR\\READ\\")]
+        public string wrOutPath {
+            get {
+                return ((string)(this["wrOutPath"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("c:\\TTEC_OCR\\WRHV803\\")]
+        public string ocrPatternLoadPath {
+            get {
+                return ((string)(this["ocrPatternLoadPath"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\TTEC_OCR\\OCRERROR\\")]
+        public string ocrErrPath {
+            get {
+                return ((string)(this["ocrErrPath"]));
+            }
+        }
     }
 }
